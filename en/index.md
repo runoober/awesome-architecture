@@ -37,7 +37,7 @@ features:
     details: Each template links to real open-source projects and engineering papers (vLLM, LiteLLM, TigerBeetle, Uber H3, Figma…).
 ---
 
-> ✅ **Fully bilingual.** 34 of 40 tutorial chapters, all 31 templates, and the first 6 cases are available in English — use the language switch (top-right) or browse `en/` in the repo. [Contributions welcome](https://github.com/study8677/awesome-architecture).
+> ✅ **English translation coverage.** 34 of 40 tutorial chapters, all 31 templates, and the first 6 cases are available in English — use the language switch (top-right) or browse `en/` in the repo. [Contributions welcome](https://github.com/study8677/awesome-architecture).
 
 ## 🗺️ Browse all 31 architecture maps
 
