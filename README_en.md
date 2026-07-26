@@ -7,6 +7,8 @@
 
 **🌐 Read online (interactive · bilingual, HTTPS):** <https://study8677.github.io/awesome-architecture/en/>
 
+**📚 Community EPUB:** [*Awesome Architecture: 架构图谱* — community learning edition](https://github.com/study8677/awesome-architecture/issues/33) — an unofficial Chinese EPUB prepared by [@toby-bridges](https://github.com/toby-bridges) from this project's Chinese content and independently checked by the project author. It works for offline reading in Apple Books and other EPUB readers; Issue #33 includes the download, checksums, and reproducible build instructions.
+
 **🏆 Community attention:** On 2026-06-08, this project reached [PickGithub](http://pickgithub.com/rank) **#1 on the Vue Trending chart for the day**.
 
 **🧭 Companion skill:** [architecture-copilot](https://github.com/study8677/architecture-copilot) — turns this knowledge into an interactive skill that **guides you through architecture design** inside Claude Code / Cursor / Codex.
@@ -227,10 +229,11 @@ Jump straight to each template's "Key Decisions & Trade-offs" and "Evolution Pat
 
 ---
 
-## 🤝 Core Contributor
+## 🤝 Core Contributors & Community Acknowledgements
 
 - [@h13181278389](https://github.com/h13181278389) — core contributor. Thank you for supporting Awesome Architecture and helping it keep improving.
 - [@flyw1015](https://github.com/flyw1015) — core contributor. Thank you for supporting Awesome Architecture and helping it keep improving.
+- [@toby-bridges](https://github.com/toby-bridges) — thank you for turning the project's Chinese content into an unofficial Apple Books-compatible EPUB community edition, complete with reproducible build tools, checksums, and device verification that make the material easier to read offline.
 
 ---
 

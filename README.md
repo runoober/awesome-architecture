@@ -7,6 +7,8 @@
 
 **🌐 在线阅读(可交互 · 中英双语,HTTPS):** <https://study8677.github.io/awesome-architecture/>
 
+**📚 社区电子书:** [《Awesome Architecture：架构图谱》EPUB 社区学习版](https://github.com/study8677/awesome-architecture/issues/33) —— 由 [@toby-bridges](https://github.com/toby-bridges) 基于本项目中文内容整理,已由项目作者复核,可在 Apple Books 等 EPUB 阅读器离线阅读;下载、校验值与构建说明见 Issue #33。
+
 **🏆 社区关注:** 2026-06-08,项目登上 [PickGithub](http://pickgithub.com/rank) **Vue 趋势榜当日第 1**。
 
 **🧭 配套 skill:** [architecture-copilot](https://github.com/study8677/architecture-copilot) —— 把这套知识变成能在 Claude Code / Cursor / Codex 里**引导你一步步设计架构**的交互式 skill。
@@ -238,10 +240,11 @@ awesome-architecture/
 
 ---
 
-## 🤝 核心贡献者
+## 🤝 核心贡献者与社区致谢
 
 - [@h13181278389](https://github.com/h13181278389) —— 核心贡献者。感谢你对 Awesome Architecture 的支持、投入和持续贡献。
 - [@flyw1015](https://github.com/flyw1015) —— 核心贡献者。感谢你对 Awesome Architecture 的支持、投入和持续贡献。
+- [@toby-bridges](https://github.com/toby-bridges) —— 感谢你将项目中文内容整理成可在 Apple Books 阅读的非官方 EPUB 社区学习版,并提供可复现构建工具、完整校验信息与实机验证,让这套知识更适合离线阅读。
 
 ---
 
